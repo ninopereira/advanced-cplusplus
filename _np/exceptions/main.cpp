@@ -34,5 +34,7 @@ int main()
         cout << "String error: " << e << endl;
     }
 
+    cout << "Still running" << endl;
+
     return 0;
 }
