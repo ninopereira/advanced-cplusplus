@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570578053 source:c:\users\npereira\onedrive - dyson\documents\advanced-cplusplus\_np\complex_number\main.cpp
+	<iostream>
+	<Complex.h>
+
+1570578037 c:\users\npereira\onedrive - dyson\documents\advanced-cplusplus\_np\complex_number\include\complex.h
+	<iostream>
+
+1570578015 source:c:\users\npereira\onedrive - dyson\documents\advanced-cplusplus\_np\complex_number\src\complex.cpp
+	"Complex.h"
+
