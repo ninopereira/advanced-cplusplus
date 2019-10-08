@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570529305 source:c:\users\npereira\onedrive - dyson\documents\advanced-cplusplus\_np\vectors_sorting\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
